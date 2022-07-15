@@ -1,3 +1,7 @@
 # registration-form
  Registration Form
-<img src="https://raw.githubusercontent.com/CodrinGavan/registration-form/master/registration-form.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/registration-form/">Live Preview</a>
+ </li>
+ </ul>
